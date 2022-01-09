@@ -1,0 +1,27 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: chrome-error://chromewebdata/
+Subject: page title
+Date: Tue, 27 Jul 2021 11:52:19 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ZzstOFwQREfahH7o228kEoo1lIyBvEMIpAm8wmdotH----"
+
+
+------MultipartBoundary--ZzstOFwQREfahH7o228kEoo1lIyBvEMIpAm8wmdotH----
+Content-Type: text/html
+Content-ID: <frame-1AF91345927CAABFBB5F151A671D3429@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-error://chromewebdata/
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><title>page title</title>
+
+</head>
+<body>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+
+</body></html>
+------MultipartBoundary--ZzstOFwQREfahH7o228kEoo1lIyBvEMIpAm8wmdotH------
